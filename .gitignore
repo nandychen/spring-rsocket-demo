@@ -25,3 +25,7 @@ hs_err_pid*
 # Don't include the RSocket CLI
 rsocket-cli
 .vscode
+
+
+### IntelliJ IDEA ###
+.idea
